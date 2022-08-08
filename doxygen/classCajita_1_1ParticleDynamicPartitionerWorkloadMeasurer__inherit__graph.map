@@ -1,0 +1,4 @@
+<map id="Cajita::ParticleDynamicPartitionerWorkloadMeasurer&lt; ParticlePosViewType, ArrayType, CellUnit, CellPerTileDim, num_space_dim, Device &gt;" name="Cajita::ParticleDynamicPartitionerWorkloadMeasurer&lt; ParticlePosViewType, ArrayType, CellUnit, CellPerTileDim, num_space_dim, Device &gt;">
+<area shape="rect" id="node1" title="Helper class to set workload for DynamicPartitioner with particles." alt="" coords="5,95,288,165"/>
+<area shape="rect" id="node2" href="$classCajita_1_1DynamicPartitionerWorkloadMeasurer.html" title=" " alt="" coords="45,5,249,47"/>
+</map>

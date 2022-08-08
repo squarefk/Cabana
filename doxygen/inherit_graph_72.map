@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structCajita_1_1Edge_3_01Dim_1_1J_01_4.html" title="J&#45;edge tag." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node1" href="$classCajita_1_1DynamicPartitionerWorkloadMeasurer.html" title=" " alt="" coords="5,64,209,105"/>
+<area shape="rect" id="node2" href="$classCajita_1_1ParticleDynamicPartitionerWorkloadMeasurer.html" title="Helper class to set workload for DynamicPartitioner with particles." alt="" coords="257,5,540,76"/>
+<area shape="rect" id="node3" href="$classCajita_1_1SparseMapDynamicPartitionerWorkloadMeasurer.html" title="Helper class to set workload for DynamicPartitioner with sparse map." alt="" coords="295,101,503,157"/>
 </map>
